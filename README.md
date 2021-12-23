@@ -45,7 +45,7 @@
 ## :art: Layout
 <div align="center"; diplay= "flex"; flex-direction= "row">
     <h3>:iphone: Mobile Layout</h3>
-    <img src="https://media.giphy.com/media/bQ664pxJQpdPJaAhFH/giphy.gif"> 
+    <img src="https://user-images.githubusercontent.com/82395795/147244009-da3e64f5-108d-48e0-9024-c7553838a10a.gif"> 
     <h3>:iphone: Tablet Layout</h3>
     <img src="https://media.giphy.com/media/uphrCiLCXN4CuzP9Cm/giphy.gif">
     <h3>:desktop_computer: Desktop Layout</h3>
